@@ -12,7 +12,7 @@ This project is based on the popular Christmas game __Secret Santa__ where frien
 
 ![Welcome](https://github.com/NotTheBest/secretsanta-generator/blob/master/preview-images/welcomepage.png?raw=true)
 
-* Add People
+* Add People 
 
 ![Add](https://github.com/NotTheBest/secretsanta-generator/blob/master/preview-images/addpage.png?raw=true)
 
